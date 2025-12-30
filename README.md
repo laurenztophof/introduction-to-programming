@@ -83,4 +83,5 @@ While primarily playful, this component demonstrates how game mechanics can be u
    ```bash
    python -m pip install -r requirements.txt
 2. Run homepage:
+   ```bash
    streamlit run home.py
